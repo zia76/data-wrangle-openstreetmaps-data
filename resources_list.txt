@@ -1,0 +1,11 @@
+For this project, I used the following web resources:
+
+https://mapzen.com/metro-extracts/    to get the Portland area osm file.
+
+https://www.aggdata.com/node/86    to get a csv of all US zip codes for cross-referencing
+
+http://docs.mongodb.org/manual/reference/ for help forming my mongodb queries
+
+I also used this stackoverflow post to double-check my regex to extract 5-digit postal codes from addresses:
+
+http://stackoverflow.com/questions/7425860/regular-expression-get-us-zip-code

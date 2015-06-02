@@ -1,0 +1,7 @@
+I chose to use the Portland metropolitan area, mainly because my sister lives there and I have some familiarity with the area, but still stand to learn more about it during this project.
+
+I got the osm file from mapzen.com/metro-extracts/. It was 39MB compressed and 632MB uncompressed. Portland's city boundaries can be seen on this openstreetmap map:
+
+https://www.openstreetmap.org/relation/186579
+
+though the mapzen extracted area was somewhat larger, extending into the surrounding suburbs and encompassing the entire metropolitan area.
